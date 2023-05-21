@@ -1,0 +1,953 @@
+﻿# Game Portuguese (Brazil) translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2023-05-17 23:40\n"
+"PO-Revision-Date: 2023-05-17 23:40\n"
+"Language-Team: \n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. Key:	0131A0DE49BE8A2880544187BE72EB04
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ConditionTypes.E_ConditionTypes.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ConditionTypes.E_ConditionTypes.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",0131A0DE49BE8A2880544187BE72EB04"
+msgid "ActionHistoryConditions"
+msgstr ""
+
+#. Key:	04DAAF47431517A9D30C24ABAFEE96D6
+#. SourceLocation:	/Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue2.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(5).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+#: /Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue2.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(5).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+msgctxt ",04DAAF47431517A9D30C24ABAFEE96D6"
+msgid "<%0.1% #0.4#>. . .</>"
+msgstr ""
+
+#. Key:	0610E99F4F1EBDAC040D24825CECF49F
+#. SourceLocation:	/Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue2.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(8).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+#: /Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue2.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(8).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+msgctxt ",0610E99F4F1EBDAC040D24825CECF49F"
+msgid "<>Boy</><%0.2% #0.05#>, i don't know about the other bodyguards, </><(Highlight) %0.2% #0.04#>but i don't cover emotional damages</>"
+msgstr "<>Garoto</><%0.2% #0.05#>, não sei os outros guarda-costas, </><(Highlight) %0.2% #0.04#>mas eu não cubro danos emocionais</>"
+
+#. Key:	0A4D8E2E434C26A6CB02A69A4C7B2BF6
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_MeleeCollisionShape.E_MeleeCollisionShape.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_MeleeCollisionShape.E_MeleeCollisionShape.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",0A4D8E2E434C26A6CB02A69A4C7B2BF6"
+msgid "45DegreeCone"
+msgstr ""
+
+#. Key:	0B545E6B49D27157EEC422A50AFBBF34
+#. SourceLocation:	/Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue2.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(6).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+#: /Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue2.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(6).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+msgctxt ",0B545E6B49D27157EEC422A50AFBBF34"
+msgid "<#0.05#>Yeah</><%0.2%>, he likes to talk a lot</>"
+msgstr "<#0.05#>É verdade</><%0.2%>, ele tem costume de falar muito</>"
+
+#. Key:	11B0BDCE4A02067A7AA0C4B42FDD5337
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_MeleeCollisionShape.E_MeleeCollisionShape.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_MeleeCollisionShape.E_MeleeCollisionShape.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",11B0BDCE4A02067A7AA0C4B42FDD5337"
+msgid "135DegreePizza"
+msgstr ""
+
+#. Key:	11DBCBBD42FAEBBBF3C0BCA48401E400
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt1/Enum_TextColor.Enum_TextColor.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Dev/Airon/UI/TextIt1/Enum_TextColor.Enum_TextColor.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",11DBCBBD42FAEBBBF3C0BCA48401E400"
+msgid "Black"
+msgstr ""
+
+#. Key:	14DBB6C146C85BE08114608EA6D785A1
+#. SourceLocation:	/Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue1.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(3).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+#: /Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue1.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(3).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+msgctxt ",14DBB6C146C85BE08114608EA6D785A1"
+msgid "<(Sad) #0.05#>Sim cara, você é muito engraçado, já sabemos disso</>"
+msgstr ""
+
+#. Key:	1502573346A745BA098915BC1397B530
+#. SourceLocation:	/Game/Assets/Tiles/Tilemaps/ParkTest2.ParkTest2:PaperTileLayer_5.LayerName
+#: /Game/Assets/Tiles/Tilemaps/ParkTest2.ParkTest2:PaperTileLayer_5.LayerName
+msgctxt ",1502573346A745BA098915BC1397B530"
+msgid "CanopyUpper"
+msgstr ""
+
+#. Key:	157ECEE842C0932C47171CBEC1DC9225
+#. SourceLocation:	/Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue1.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(2).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+#: /Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue1.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(2).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+msgctxt ",157ECEE842C0932C47171CBEC1DC9225"
+msgid "<[Jump] %0.2%></><(Cheeky) #0.02# [Flash,white]>Gosto muito da música dele</>"
+msgstr ""
+
+#. Key:	1707C62E4C49EDEE4055D2AC013F4173
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_SpriteVFXMode.E_SpriteVFXMode.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_SpriteVFXMode.E_SpriteVFXMode.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",1707C62E4C49EDEE4055D2AC013F4173"
+msgid "FlipbookSequence"
+msgstr ""
+
+#. Key:	19EB969245D434169AA1018009E104AB
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_NumberRangePreference.E_NumberRangePreference.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_NumberRangePreference.E_NumberRangePreference.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",19EB969245D434169AA1018009E104AB"
+msgid "More Than Minimum"
+msgstr ""
+
+#. Key:	1D47232C4B96AAD925306E8EC945EBBF
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",1D47232C4B96AAD925306E8EC945EBBF"
+msgid "RadialNonMagic"
+msgstr ""
+
+#. Key:	203222CB448C8746A6ECDE961D597BF3
+#. SourceLocation:	/Game/Dev/Gibran/Core/Blueprints/BP_MeleeAttack.BP_MeleeAttack_C:ExecuteUbergraph_BP_MeleeAttack [Script Bytecode]
+#: /Game/Dev/Gibran/Core/Blueprints/BP_MeleeAttack.BP_MeleeAttack_C:ExecuteUbergraph_BP_MeleeAttack [Script Bytecode]
+msgctxt ",203222CB448C8746A6ECDE961D597BF3"
+msgid "Melee attack hit object of profile {pf} "
+msgstr ""
+
+#. Key:	213EF7DC473F5167669275BA91A55416
+#. SourceLocation:	/Game/Dev/Gibran/Core/Blueprints/Enemies/BP_TestEnemyBase.Default__BP_TestEnemyBase_C.Name
+#: /Game/Dev/Gibran/Core/Blueprints/Enemies/BP_TestEnemyBase.Default__BP_TestEnemyBase_C.Name
+msgctxt ",213EF7DC473F5167669275BA91A55416"
+msgid "EnemyBase"
+msgstr ""
+
+#. Key:	226F32D243B0BEBC40FEEA96307C3924
+#. SourceLocation:	/Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestVariable.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(0).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+#: /Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestVariable.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(0).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+msgctxt ",226F32D243B0BEBC40FEEA96307C3924"
+msgid "<#0.05#>A data atual é {Date}.</><#0.05# &>A hora atual é {Time}</>"
+msgstr ""
+
+#. Key:	2316186B4F7B722638617CAE295413FA
+#. SourceLocation:	/Game/Assets/Tiles/Tilemaps/ParkTest2.ParkTest2:PaperTileLayer_6.LayerName
+#: /Game/Assets/Tiles/Tilemaps/ParkTest2.ParkTest2:PaperTileLayer_6.LayerName
+msgctxt ",2316186B4F7B722638617CAE295413FA"
+msgid "FloorDecoSwaying"
+msgstr ""
+
+#. Key:	239FBDE145DF3FB63B982197F80F04CC
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ChaseMovementMode.E_ChaseMovementMode.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ChaseMovementMode.E_ChaseMovementMode.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",239FBDE145DF3FB63B982197F80F04CC"
+msgid "RunRandomly"
+msgstr ""
+
+#. Key:	23E0AEF94DA61E12753871B02E593E70
+#. SourceLocation:	/Game/Assets/Tiles/Tilemaps/ParkTest.ParkTest:PaperTileLayer_7.LayerName
+#: /Game/Assets/Tiles/Tilemaps/ParkTest.ParkTest:PaperTileLayer_7.LayerName
+msgctxt ",23E0AEF94DA61E12753871B02E593E70"
+msgid "UpperTreeBranches"
+msgstr ""
+
+#. Key:	245D924444647AA99FF2049BE7DAC779
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt1/Enum_TextColor.Enum_TextColor.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Dev/Airon/UI/TextIt1/Enum_TextColor.Enum_TextColor.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",245D924444647AA99FF2049BE7DAC779"
+msgid "Red"
+msgstr ""
+
+#. Key:	251BBA064B9154216E42B993AF037559
+#. SourceLocation:	/Game/Assets/Tiles/Tilemaps/ParkTest2.ParkTest2:PaperTileLayer_4.LayerName
+#: /Game/Assets/Tiles/Tilemaps/ParkTest2.ParkTest2:PaperTileLayer_4.LayerName
+msgctxt ",251BBA064B9154216E42B993AF037559"
+msgid "CanopyLower"
+msgstr ""
+
+#. Key:	2A068BB8418D590901A6679D10EC68E2
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_QuantityPreference.E_QuantityPreference.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_QuantityPreference.E_QuantityPreference.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",2A068BB8418D590901A6679D10EC68E2"
+msgid "All"
+msgstr ""
+
+#. Key:	2C004DA54475FC5E9D9849AB287C39E3
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt1/Enum_TextAnimation.Enum_TextAnimation.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Dev/Airon/UI/TextIt1/Enum_TextAnimation.Enum_TextAnimation.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",2C004DA54475FC5E9D9849AB287C39E3"
+msgid "Pop"
+msgstr ""
+
+#. Key:	2C99C78A436B5FAC84C15C957684C9E0
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",2C99C78A436B5FAC84C15C957684C9E0"
+msgid "ProjectileNonMagic"
+msgstr ""
+
+#. Key:	2CC84B6E4692B613088A28B0B248E001
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_NumberRangePreference.E_NumberRangePreference.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_NumberRangePreference.E_NumberRangePreference.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",2CC84B6E4692B613088A28B0B248E001"
+msgid "Between Minimum And Maximum"
+msgstr ""
+
+#. Key:	2E366794449EB1D69A6083BF68EA8679
+#. SourceLocation:	/Game/Assets/Tiles/Tilemaps/ParkTest.ParkTest:PaperTileLayer_5.LayerName
+#: /Game/Assets/Tiles/Tilemaps/ParkTest.ParkTest:PaperTileLayer_5.LayerName
+msgctxt ",2E366794449EB1D69A6083BF68EA8679"
+msgid "TreeStumps"
+msgstr ""
+
+#. Key:	305D896147FF3E0E88343AAC6208210A
+#. SourceLocation:	/Game/Assets/Tiles/Tilemaps/ParkTest.ParkTest:PaperTileLayer_6.LayerName
+#: /Game/Assets/Tiles/Tilemaps/ParkTest.ParkTest:PaperTileLayer_6.LayerName
+msgctxt ",305D896147FF3E0E88343AAC6208210A"
+msgid "LowerTreeBranches"
+msgstr ""
+
+#. Key:	3069C980426D2C966723DD8F3704275B
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt1/Enum_TextAnimation.Enum_TextAnimation.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Dev/Airon/UI/TextIt1/Enum_TextAnimation.Enum_TextAnimation.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",3069C980426D2C966723DD8F3704275B"
+msgid "Squish"
+msgstr ""
+
+#. Key:	3088AD7348480388007D33BBF8630966
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ActionTarget.E_ActionTarget.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ActionTarget.E_ActionTarget.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",3088AD7348480388007D33BBF8630966"
+msgid "ActorSpecified"
+msgstr ""
+
+#. Key:	30F067B44A85BE5DA4B651AD296A962C
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ConditionTypes.E_ConditionTypes.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ConditionTypes.E_ConditionTypes.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",30F067B44A85BE5DA4B651AD296A962C"
+msgid "EnemyPresenceConditions"
+msgstr ""
+
+#. Key:	320C1AEA491B5E4C3FCAD9BD1E6CE150
+#. SourceLocation:	/Game/Assets/Tiles/Tilemaps/ParkTest2.ParkTest2:PaperTileLayer_2.LayerName
+#: /Game/Assets/Tiles/Tilemaps/ParkTest2.ParkTest2:PaperTileLayer_2.LayerName
+msgctxt ",320C1AEA491B5E4C3FCAD9BD1E6CE150"
+msgid "PlayerFootHeight"
+msgstr ""
+
+#. Key:	328B7C3B4481B6E41F1793BB69A344FD
+#. SourceLocation:	/Game/Dev/Gibran/Core/Blueprints/Heroes/BP_HeroGroupRemake.BP_HeroGroupRemake_C:ExecuteUbergraph_BP_HeroGroupRemake [Script Bytecode]
+#: /Game/Dev/Gibran/Core/Blueprints/Heroes/BP_HeroGroupRemake.BP_HeroGroupRemake_C:ExecuteUbergraph_BP_HeroGroupRemake [Script Bytecode]
+msgctxt ",328B7C3B4481B6E41F1793BB69A344FD"
+msgid "Ethan: {eh}\r\nHanna: {hh}\r\nShura: {sh}\r\nBenjamin: {bh}\r\nTotal: {th}"
+msgstr ""
+
+#. Key:	3301A41D4C8C530445EE4EBFA540D898
+#. SourceLocation:	/Game/Bin/Movemode.Movemode.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Bin/Movemode.Movemode.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",3301A41D4C8C530445EE4EBFA540D898"
+msgid "Twinstick"
+msgstr ""
+
+#. Key:	37FCE41B481BE1342AFC70ABD65E107B
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ConditionTypes.E_ConditionTypes.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ConditionTypes.E_ConditionTypes.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",37FCE41B481BE1342AFC70ABD65E107B"
+msgid "PlayerHealthConditions"
+msgstr ""
+
+#. Key:	3A0CFA174A2A2159ABA15AB19380E365
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt1/Enum_TextColor.Enum_TextColor.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Dev/Airon/UI/TextIt1/Enum_TextColor.Enum_TextColor.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",3A0CFA174A2A2159ABA15AB19380E365"
+msgid "Green"
+msgstr ""
+
+#. Key:	3AF8408949EDFE74EB010998EB4D31AE
+#. SourceLocation:	/Game/Assets/Tiles/Tilemaps/ParkTest.ParkTest:PaperTileLayer_0.LayerName
+#: /Game/Assets/Tiles/Tilemaps/ParkTest.ParkTest:PaperTileLayer_0.LayerName
+msgctxt ",3AF8408949EDFE74EB010998EB4D31AE"
+msgid "Floor"
+msgstr ""
+
+#. Key:	423F38544A164488A48CC28D00B5D28C
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_HeroSpecification.E_HeroSpecification.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_HeroSpecification.E_HeroSpecification.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",423F38544A164488A48CC28D00B5D28C"
+msgid "Shura"
+msgstr ""
+
+#. Key:	498EFCA747055A50D30F73AD630763B5
+#. SourceLocation:	/Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue2.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(7).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+#: /Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue2.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(7).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+msgctxt ",498EFCA747055A50D30F73AD630763B5"
+msgid "<%0.1% (Highlight) #0.02# [Jump]>You're agreeing with them??? </><%0.3% #0.03#>Did'nt you say you where going to defend me from anything?</>"
+msgstr "<%0.1% (Highlight) #0.02# [Jump]>Você tá concordando com eles??? </><%0.3% #0.03#>Você não disse que ia me defender de qualquer coisa?</>"
+
+#. Key:	4E07CB61478B32908D259BB36A56785A
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_IdleMovementMode.E_IdleMovementMode.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_IdleMovementMode.E_IdleMovementMode.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",4E07CB61478B32908D259BB36A56785A"
+msgid "FixedPosition"
+msgstr ""
+
+#. Key:	4E73FEE0466020C42CA30BBC34545D00
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_SpriteVFXMode.E_SpriteVFXMode.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_SpriteVFXMode.E_SpriteVFXMode.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",4E73FEE0466020C42CA30BBC34545D00"
+msgid "RandomFlipbook"
+msgstr ""
+
+#. Key:	52323AF246B3818B4AE6D18725C68502
+#. SourceLocation:	/Game/Bin/Blueprints/Object/Projectiles/BP_Projectile.BP_Projectile_C:ExecuteUbergraph_BP_Projectile [Script Bytecode]
+#: /Game/Bin/Blueprints/Object/Projectiles/BP_Projectile.BP_Projectile_C:ExecuteUbergraph_BP_Projectile [Script Bytecode]
+msgctxt ",52323AF246B3818B4AE6D18725C68502"
+msgid "Projectile applied damage:\r\nBase damage: {bd}\r\nDamage variance: {dv}\r\nApplied damage: {ad}"
+msgstr ""
+
+#. Key:	5291BCA045843B88C6ABD6BBE40672C8
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ActionTarget.E_ActionTarget.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ActionTarget.E_ActionTarget.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",5291BCA045843B88C6ABD6BBE40672C8"
+msgid "ActorOfClass"
+msgstr ""
+
+#. Key:	53FD058040F9123297B6C0AABBFE80D2
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ActionTarget.E_ActionTarget.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ActionTarget.E_ActionTarget.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",53FD058040F9123297B6C0AABBFE80D2"
+msgid "HeroSpecified"
+msgstr ""
+
+#. Key:	567D0674491661AAB6BD1681ED254EB9
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt1/Enum_TextColor.Enum_TextColor.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/Dev/Airon/UI/TextIt1/Enum_TextColor.Enum_TextColor.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",567D0674491661AAB6BD1681ED254EB9"
+msgid "Pink"
+msgstr ""
+
+#. Key:	56EEB6A44D7F8C0A2F92D9BA6974C0F1
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_QuantityPreference.E_QuantityPreference.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_QuantityPreference.E_QuantityPreference.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",56EEB6A44D7F8C0A2F92D9BA6974C0F1"
+msgid "AtLeastOne"
+msgstr ""
+
+#. Key:	58C0B14A4945B46B9F7BAC904E6EFF30
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ActionType.E_ActionType.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ActionType.E_ActionType.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",58C0B14A4945B46B9F7BAC904E6EFF30"
+msgid "Boost"
+msgstr ""
+
+#. Key:	5B80B10A424DC84E75C7858CD6129576
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ActionTarget.E_ActionTarget.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ActionTarget.E_ActionTarget.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",5B80B10A424DC84E75C7858CD6129576"
+msgid "ClosestHero"
+msgstr ""
+
+#. Key:	5B8204DE4F57E863E4226FBD07C40577
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_HeroSpecification.E_HeroSpecification.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_HeroSpecification.E_HeroSpecification.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",5B8204DE4F57E863E4226FBD07C40577"
+msgid "Ethan"
+msgstr ""
+
+#. Key:	5F6DD8D64295866CFA5B8A873B9867D4
+#. SourceLocation:	/Game/Assets/Tiles/Tilemaps/ParkTest2.ParkTest2:PaperTileLayer_3.LayerName
+#: /Game/Assets/Tiles/Tilemaps/ParkTest2.ParkTest2:PaperTileLayer_3.LayerName
+msgctxt ",5F6DD8D64295866CFA5B8A873B9867D4"
+msgid "PlayerHeadHeight"
+msgstr ""
+
+#. Key:	66AB12A94AA54D96876D028D4D728931
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_HeroSpecification.E_HeroSpecification.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_HeroSpecification.E_HeroSpecification.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",66AB12A94AA54D96876D028D4D728931"
+msgid "HeroGroup"
+msgstr ""
+
+#. Key:	671906634261E1BDE24022960EA69C06
+#. SourceLocation:	/Game/Assets/Tiles/Tilemaps/ParkTest2.ParkTest2:PaperTileLayer_8.LayerName
+#: /Game/Assets/Tiles/Tilemaps/ParkTest2.ParkTest2:PaperTileLayer_8.LayerName
+msgctxt ",671906634261E1BDE24022960EA69C06"
+msgid "Water"
+msgstr ""
+
+#. Key:	6D10AC0D4D0FCCF160D11A9719345DD7
+#. SourceLocation:	/Game/Assets/Tiles/Tilemaps/ParkTest2.ParkTest2:PaperTileLayer_7.LayerName
+#: /Game/Assets/Tiles/Tilemaps/ParkTest2.ParkTest2:PaperTileLayer_7.LayerName
+msgctxt ",6D10AC0D4D0FCCF160D11A9719345DD7"
+msgid "UnderCanopy"
+msgstr ""
+
+#. Key:	6D87033E479A4FAB2BC53F923EE01DCB
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_MeleeCollisionShape.E_MeleeCollisionShape.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_MeleeCollisionShape.E_MeleeCollisionShape.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",6D87033E479A4FAB2BC53F923EE01DCB"
+msgid "Box"
+msgstr ""
+
+#. Key:	6D9B022A487BF8C05F59BCB40AEB4EC3
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ConditionTypes.E_ConditionTypes.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ConditionTypes.E_ConditionTypes.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",6D9B022A487BF8C05F59BCB40AEB4EC3"
+msgid "CombatTimeConditions"
+msgstr ""
+
+#. Key:	6DD13F2B4B334C6805B79590DBC1D818
+#. SourceLocation:	/Game/Dev/Gibran/Core/UI/WBP_EnemyHealthBar.WBP_EnemyHealthBar_C:WidgetTree.EnemyNameText.Text
+#: /Game/Dev/Gibran/Core/UI/WBP_EnemyHealthBar.WBP_EnemyHealthBar_C:WidgetTree.EnemyNameText.Text
+msgctxt ",6DD13F2B4B334C6805B79590DBC1D818"
+msgid "EnemyName"
+msgstr ""
+
+#. Key:	6E06C59C430BD1B79E1FE19762846E63
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt3/DT_Dialogues.DT_Dialogues.TestRow.Text_14_5D1913D34BA9A8FAC59F0B9CF3C82FAF
+#: /Game/Dev/Airon/UI/TextIt3/DT_Dialogues.DT_Dialogues.TestRow.Text_14_5D1913D34BA9A8FAC59F0B9CF3C82FAF
+msgctxt ",6E06C59C430BD1B79E1FE19762846E63"
+msgid "Isso aqui é um teste de efeitos de texto. Ficou bonito? Diz que sim..."
+msgstr ""
+
+#. Key:	6EFDC6984DDBDED187C428AEF225C4A5
+#. SourceLocation:	/Game/Dev/Gibran/Core/Blueprints/Enemies/BP_TestEnemy3.Default__BP_TestEnemy3_C.Name
+#: /Game/Dev/Gibran/Core/Blueprints/Enemies/BP_TestEnemy3.Default__BP_TestEnemy3_C.Name
+msgctxt ",6EFDC6984DDBDED187C428AEF225C4A5"
+msgid "TestEnemy3"
+msgstr ""
+
+#. Key:	6F517CF6487491EF658332A49E5763E8
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt1/Enum_TextAnimation.Enum_TextAnimation.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Dev/Airon/UI/TextIt1/Enum_TextAnimation.Enum_TextAnimation.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",6F517CF6487491EF658332A49E5763E8"
+msgid "Tremble"
+msgstr ""
+
+#. Key:	6F8E038C4DD57FFDA4FB91BAB9F9FD62
+#. SourceLocation:	/Game/Bin/Movemode.Movemode.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Bin/Movemode.Movemode.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",6F8E038C4DD57FFDA4FB91BAB9F9FD62"
+msgid "Gibran"
+msgstr ""
+
+#. Key:	7106687D46581EDBF8DFF9877C863E9B
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_NumberRangePreference.E_NumberRangePreference.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_NumberRangePreference.E_NumberRangePreference.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",7106687D46581EDBF8DFF9877C863E9B"
+msgid "Less Than Maximum"
+msgstr ""
+
+#. Key:	72D1B2F041F2D3CF4FBD2591705B8E01
+#. SourceLocation:	/Game/Dev/Gibran/Core/Blueprints/BP_MeleeAttack.BP_MeleeAttack_C:ExecuteUbergraph_BP_MeleeAttack [Script Bytecode]
+#: /Game/Dev/Gibran/Core/Blueprints/BP_MeleeAttack.BP_MeleeAttack_C:ExecuteUbergraph_BP_MeleeAttack [Script Bytecode]
+msgctxt ",72D1B2F041F2D3CF4FBD2591705B8E01"
+msgid "Collision profile: {cp}"
+msgstr ""
+
+#. Key:	76A3859F436BCB7393A8B2A7A8DBA6EB
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt1/Enum_TextColor.Enum_TextColor.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Dev/Airon/UI/TextIt1/Enum_TextColor.Enum_TextColor.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",76A3859F436BCB7393A8B2A7A8DBA6EB"
+msgid "Yellow"
+msgstr ""
+
+#. Key:	7A5CB6DE4CAA13C1B316BEAFEA946305
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ChaseMovementMode.E_ChaseMovementMode.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ChaseMovementMode.E_ChaseMovementMode.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",7A5CB6DE4CAA13C1B316BEAFEA946305"
+msgid "ChaseAndCircle"
+msgstr ""
+
+#. Key:	7A624AC845B657E76C41A5A04B8709E8
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ConditionTypes.E_ConditionTypes.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ConditionTypes.E_ConditionTypes.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",7A624AC845B657E76C41A5A04B8709E8"
+msgid "LineOfSightConditions"
+msgstr ""
+
+#. Key:	7B359D764277017266260AB13B356EC8
+#. SourceLocation:	/Game/Assets/Tiles/Tilemaps/ParkTest2.ParkTest2:PaperTileLayer_9.LayerName
+#: /Game/Assets/Tiles/Tilemaps/ParkTest2.ParkTest2:PaperTileLayer_9.LayerName
+msgctxt ",7B359D764277017266260AB13B356EC8"
+msgid "WaterDeco"
+msgstr ""
+
+#. Key:	808ECA5B42D405448367E69B54066B7D
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_IdleMovementMode.E_IdleMovementMode.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_IdleMovementMode.E_IdleMovementMode.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",808ECA5B42D405448367E69B54066B7D"
+msgid "Patrol"
+msgstr ""
+
+#. Key:	80CFD59D44FC2B6E1FDABE886DE5EA10
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",80CFD59D44FC2B6E1FDABE886DE5EA10"
+msgid "MeleeNonMagic"
+msgstr ""
+
+#. Key:	80ED38514920452FCBE2779115AE1A03
+#. SourceLocation:	/Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue2.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(1).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+#: /Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue2.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(1).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+msgctxt ",80ED38514920452FCBE2779115AE1A03"
+msgid "<#0.05#>I feel like </><(Angry) #0.03# [Flash,Red]>drowning myself</><%0.2% #0.04#>, then i would be finally free from all of you</>"
+msgstr "<#0.05#>Me deu vontade é de </><(Angry) #0.03# [Flash,Red]>me afogar logo</><%0.2% #0.04#>, aí sim eu me livrava de vocês</>"
+
+#. Key:	84346E614807726541B62594227F0F35
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt3/DT_Dialogues.DT_Dialogues.Gibran1.Text_14_5D1913D34BA9A8FAC59F0B9CF3C82FAF
+#: /Game/Dev/Airon/UI/TextIt3/DT_Dialogues.DT_Dialogues.Gibran1.Text_14_5D1913D34BA9A8FAC59F0B9CF3C82FAF
+msgctxt ",84346E614807726541B62594227F0F35"
+msgid "Droga, %0.025;#0.1;essa coisa está completamente enmaranhada em mim, %0.05;#0.2;mal consigo me mover!"
+msgstr ""
+
+#. Key:	849B821049BA5B4FC43388AC4B657E27
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(11 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(11 - Value).DisplayNameMap
+msgctxt ",849B821049BA5B4FC43388AC4B657E27"
+msgid "None"
+msgstr ""
+
+#. Key:	84FCDC9C40A0F066EDB47A9728189C43
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt1/Enum_TextColor.Enum_TextColor.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/Dev/Airon/UI/TextIt1/Enum_TextColor.Enum_TextColor.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",84FCDC9C40A0F066EDB47A9728189C43"
+msgid "Violet"
+msgstr ""
+
+#. Key:	857D4B344B85E5AFA55CE6B741FD1E50
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ActionTarget.E_ActionTarget.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ActionTarget.E_ActionTarget.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",857D4B344B85E5AFA55CE6B741FD1E50"
+msgid "HeroGroup"
+msgstr ""
+
+#. Key:	86AAAD4446DE8235EA4B59BBD23C6FA1
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt1/Enum_TextColor.Enum_TextColor.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Dev/Airon/UI/TextIt1/Enum_TextColor.Enum_TextColor.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",86AAAD4446DE8235EA4B59BBD23C6FA1"
+msgid "Blue"
+msgstr ""
+
+#. Key:	86F4CAF349B47AFF6B6E5383D07F5810
+#. SourceLocation:	/Game/Dev/Gibran/Core/Blueprints/Enemies/BP_TestEnemyBase.BP_TestEnemyBase_C:ExecuteUbergraph_BP_TestEnemyBase [Script Bytecode]
+#: /Game/Dev/Gibran/Core/Blueprints/Enemies/BP_TestEnemyBase.BP_TestEnemyBase_C:ExecuteUbergraph_BP_TestEnemyBase [Script Bytecode]
+msgctxt ",86F4CAF349B47AFF6B6E5383D07F5810"
+msgid "Found action to execute: {action}"
+msgstr ""
+
+#. Key:	889F14714B1FEC7D8BF3EB85D49D55A0
+#. SourceLocation:	/Game/Dev/Gibran/Core/Blueprints/Heroes/BP_HeroTank.BP_HeroTank_C:ExecuteUbergraph_BP_HeroTank [Script Bytecode]
+#: /Game/Dev/Gibran/Core/Blueprints/Heroes/BP_HeroTank.BP_HeroTank_C:ExecuteUbergraph_BP_HeroTank [Script Bytecode]
+msgctxt ",889F14714B1FEC7D8BF3EB85D49D55A0"
+msgid "Shield hit object of type {ot}"
+msgstr ""
+
+#. Key:	8AEF24D14F74084F82707681A3789EF5
+#. SourceLocation:	/Game/Dev/Gibran/Core/Blueprints/BP_MeleeAttack.BP_MeleeAttack_C:ExecuteUbergraph_BP_MeleeAttack [Script Bytecode]
+#: /Game/Dev/Gibran/Core/Blueprints/BP_MeleeAttack.BP_MeleeAttack_C:ExecuteUbergraph_BP_MeleeAttack [Script Bytecode]
+msgctxt ",8AEF24D14F74084F82707681A3789EF5"
+msgid "attack direction: {ad}"
+msgstr ""
+
+#. Key:	8DBA843244DF6B5B96F7849308459D28
+#. SourceLocation:	/Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue2.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(0).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+#: /Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue2.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(0).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+msgctxt ",8DBA843244DF6B5B96F7849308459D28"
+msgid "<>The water must be great today</><%0.2%>, i'm even feeling like taking a swin later</>"
+msgstr "<>A água deve estar tão boa hoje</><%0.2%>, me deu até vontade de nadar depois</>"
+
+#. Key:	9026DC49476137D0BD0301A3B95C9EEF
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt1/W_AnimatedChar_Old.W_AnimatedChar_Old_C:WidgetTree.AnimChar.Text
+#: /Game/Dev/Airon/UI/TextIt1/W_AnimatedChar_Old.W_AnimatedChar_Old_C:WidgetTree.AnimChar.Text
+msgctxt ",9026DC49476137D0BD0301A3B95C9EEF"
+msgid "a"
+msgstr ""
+
+#. Key:	932E2F0B4062E4F55550E78FB7077B88
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_MeleeCollisionShape.E_MeleeCollisionShape.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_MeleeCollisionShape.E_MeleeCollisionShape.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",932E2F0B4062E4F55550E78FB7077B88"
+msgid "90DegreeCone"
+msgstr ""
+
+#. Key:	93A151054272D146140C678717208EC1
+#. SourceLocation:	/Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue1.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(1).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+#: /Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue1.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(1).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+msgctxt ",93A151054272D146140C678717208EC1"
+msgid "<%0.1% #0.2#>Deja... </><%0.3% #0.05#>Ah sim</><%0.1%>, já ouvi falar</>"
+msgstr ""
+
+#. Key:	93E88FC64A3A3E08A0FF12AF9B815201
+#. SourceLocation:	/Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue2.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(2).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+#: /Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue2.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(2).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+msgctxt ",93E88FC64A3A3E08A0FF12AF9B815201"
+msgid "<#0.05#>Were not for my current motor restrictions</><%0.2% #0.04#>, i would probably join you</>"
+msgstr "<#0.05#>Não fosse a minha atual restrição motora</><%0.2% #0.04#>, eu provavelmente lhe acompanharia</>"
+
+#. Key:	95A2181E43D39B0D6E3D4C874F6600AB
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ActionType.E_ActionType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ActionType.E_ActionType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",95A2181E43D39B0D6E3D4C874F6600AB"
+msgid "Projectile"
+msgstr ""
+
+#. Key:	96B9D11843FB42292FED8284DFF67D48
+#. SourceLocation:	/Game/Assets/Tiles/Tilemaps/ParkTest2.ParkTest2:PaperTileLayer_0.LayerName
+#: /Game/Assets/Tiles/Tilemaps/ParkTest2.ParkTest2:PaperTileLayer_0.LayerName
+msgctxt ",96B9D11843FB42292FED8284DFF67D48"
+msgid "Floor"
+msgstr ""
+
+#. Key:	994A8EB844DD78F2EA7B9BAC366D5DB7
+#. SourceLocation:	/Game/Bin/Blueprints/Object/Projectiles/BP_Projectile.BP_Projectile_C:ExecuteUbergraph_BP_Projectile [Script Bytecode]
+#: /Game/Bin/Blueprints/Object/Projectiles/BP_Projectile.BP_Projectile_C:ExecuteUbergraph_BP_Projectile [Script Bytecode]
+msgctxt ",994A8EB844DD78F2EA7B9BAC366D5DB7"
+msgid "Actor {ActorName} damaged"
+msgstr ""
+
+#. Key:	9A55FEBF47E861454143D6A3A4A19F64
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ActionTarget.E_ActionTarget.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ActionTarget.E_ActionTarget.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",9A55FEBF47E861454143D6A3A4A19F64"
+msgid "EnemySpecified"
+msgstr ""
+
+#. Key:	9A89AA8C4868D5CAD254399B5994F779
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ChaseMovementMode.E_ChaseMovementMode.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ChaseMovementMode.E_ChaseMovementMode.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",9A89AA8C4868D5CAD254399B5994F779"
+msgid "FixedPosition"
+msgstr ""
+
+#. Key:	9B406B6A4F2D95ED1F4E4F9A0F84332A
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ActionType.E_ActionType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ActionType.E_ActionType.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",9B406B6A4F2D95ED1F4E4F9A0F84332A"
+msgid "Melee"
+msgstr ""
+
+#. Key:	9CEF8F3D4B80093916418BBE464B19AA
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",9CEF8F3D4B80093916418BBE464B19AA"
+msgid "MeleeMagic"
+msgstr ""
+
+#. Key:	A40F7EFC4FF3598DF05220BDD30B5039
+#. SourceLocation:	/Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue1.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(4).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+#: /Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue1.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(4).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+msgctxt ",A40F7EFC4FF3598DF05220BDD30B5039"
+msgid "<%0.1% #0.3#>... </><%0.3%>Não entendi. O que foi que eu disse?</>"
+msgstr ""
+
+#. Key:	A44BFE574F7FDDCF22457F974E31D31D
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ActionType.E_ActionType.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ActionType.E_ActionType.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",A44BFE574F7FDDCF22457F974E31D31D"
+msgid "Custom"
+msgstr ""
+
+#. Key:	A7D078C640F308E0F566CD8835271E52
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",A7D078C640F308E0F566CD8835271E52"
+msgid "MeleeShura"
+msgstr ""
+
+#. Key:	AB429D5F4C48A111238770B01FEB5932
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ConditionTypes.E_ConditionTypes.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ConditionTypes.E_ConditionTypes.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",AB429D5F4C48A111238770B01FEB5932"
+msgid "RangeConditions"
+msgstr ""
+
+#. Key:	AB7C5555426A58D23C43D384EC5BFA31
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",AB7C5555426A58D23C43D384EC5BFA31"
+msgid "ProjectileMagic"
+msgstr ""
+
+#. Key:	AD286E15452EC5DFD7A02688DB803B52
+#. SourceLocation:	/Game/Assets/Tiles/Tilemaps/ParkTest.ParkTest:PaperTileLayer_8.LayerName
+#: /Game/Assets/Tiles/Tilemaps/ParkTest.ParkTest:PaperTileLayer_8.LayerName
+msgctxt ",AD286E15452EC5DFD7A02688DB803B52"
+msgid "FloorDeco Swaying"
+msgstr ""
+
+#. Key:	AE60AA0D4F6A65B65123FF894C7192D7
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_IdleMovementMode.E_IdleMovementMode.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_IdleMovementMode.E_IdleMovementMode.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",AE60AA0D4F6A65B65123FF894C7192D7"
+msgid "WanderRandomly"
+msgstr ""
+
+#. Key:	B1191E0D4C1C90BB3FBA8E8375261A24
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(9 - Value).DisplayNameMap
+msgctxt ",B1191E0D4C1C90BB3FBA8E8375261A24"
+msgid "EnvironmentNonMagic"
+msgstr ""
+
+#. Key:	B47293D44D75F9F29B385099A3C60A24
+#. SourceLocation:	/Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestVariable.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(1).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+#: /Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestVariable.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(1).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+msgctxt ",B47293D44D75F9F29B385099A3C60A24"
+msgid "<[Flash,white]></>"
+msgstr ""
+
+#. Key:	B48597334F76DCB01EAC92A11572D260
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(10 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(10 - Value).DisplayNameMap
+msgctxt ",B48597334F76DCB01EAC92A11572D260"
+msgid "EnvironmentMagic"
+msgstr ""
+
+#. Key:	B7B3E8B740CC1A9B4C1C1C9B81A3D2DD
+#. SourceLocation:	/Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue2.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(4).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+#: /Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue2.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(4).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+msgctxt ",B7B3E8B740CC1A9B4C1C1C9B81A3D2DD"
+msgid "<(Angry) %0.1% #0.01# [Shake,5]>I appreciate the silence when you're not talking</>"
+msgstr "<(Angry) %0.1% #0.01# [Shake,5]>Eu aprecio o silêncio que fica quando você não tá falando</>"
+
+#. Key:	B7C53D834F87BF30FC1EBC8703D28119
+#. SourceLocation:	/Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue2.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(3).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+#: /Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue2.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(3).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+msgctxt ",B7C53D834F87BF30FC1EBC8703D28119"
+msgid "<>Woah, are you guys really so mad you can't aprecciate anything around you?</>"
+msgstr "<>Nossa, vocês estão realmente tão irritados que não conseguem apreciar nada ao seu redor?</>"
+
+#. Key:	BA8BB2794106B7C87DC830B02C0BED49
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt3/DT_Dialogues.DT_Dialogues.Gibran2.Text_14_5D1913D34BA9A8FAC59F0B9CF3C82FAF
+#: /Game/Dev/Airon/UI/TextIt3/DT_Dialogues.DT_Dialogues.Gibran2.Text_14_5D1913D34BA9A8FAC59F0B9CF3C82FAF
+msgctxt ",BA8BB2794106B7C87DC830B02C0BED49"
+msgid "Você poderia até dizer que nós estamos...Enrolados :D"
+msgstr ""
+
+#. Key:	BA8F14544EF6851F72B9099526AF14CB
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_HeroSpecification.E_HeroSpecification.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_HeroSpecification.E_HeroSpecification.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",BA8F14544EF6851F72B9099526AF14CB"
+msgid "Benjamin"
+msgstr ""
+
+#. Key:	BAE7C44B4F04A582F27F77B1D28C3BA5
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt3/DT_Dialogues.DT_Dialogues.Gibran3.Text_14_5D1913D34BA9A8FAC59F0B9CF3C82FAF
+#: /Game/Dev/Airon/UI/TextIt3/DT_Dialogues.DT_Dialogues.Gibran3.Text_14_5D1913D34BA9A8FAC59F0B9CF3C82FAF
+msgctxt ",BAE7C44B4F04A582F27F77B1D28C3BA5"
+msgid "ETHAN, VAI TOMAR NO MEIO DO TEU C"
+msgstr ""
+
+#. Key:	BB23396346C32C9A7A6A1FB241D586DF
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ConditionTypes.E_ConditionTypes.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ConditionTypes.E_ConditionTypes.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",BB23396346C32C9A7A6A1FB241D586DF"
+msgid "EnemyHealthConditions"
+msgstr ""
+
+#. Key:	BB2519E947D70C78366BA3A4C6C05911
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ChaseMovementMode.E_ChaseMovementMode.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ChaseMovementMode.E_ChaseMovementMode.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",BB2519E947D70C78366BA3A4C6C05911"
+msgid "ChaseStraight"
+msgstr ""
+
+#. Key:	C2D0AC20472129E6D96ADB8C18A8B8B3
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_MeleeCollisionShape.E_MeleeCollisionShape.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_MeleeCollisionShape.E_MeleeCollisionShape.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",C2D0AC20472129E6D96ADB8C18A8B8B3"
+msgid "Sphere"
+msgstr ""
+
+#. Key:	C3A3196F431EDC5DA4A9E2AE72426FE8
+#. SourceLocation:	/Game/Dev/Gibran/Core/Blueprints/Heroes/BP_TestHeroBase.BP_TestHeroBase_C:ExecuteUbergraph_BP_TestHeroBase [Script Bytecode]
+#: /Game/Dev/Gibran/Core/Blueprints/Heroes/BP_TestHeroBase.BP_TestHeroBase_C:ExecuteUbergraph_BP_TestHeroBase [Script Bytecode]
+msgctxt ",C3A3196F431EDC5DA4A9E2AE72426FE8"
+msgid "Hero {name} health: {health}"
+msgstr ""
+
+#. Key:	C5E5B33C41622956BBA5E7BA6CBCA07E
+#. SourceLocation:	/Game/Assets/Tiles/Tilemaps/ParkTest.ParkTest:PaperTileLayer_2.LayerName
+#: /Game/Assets/Tiles/Tilemaps/ParkTest.ParkTest:PaperTileLayer_2.LayerName
+msgctxt ",C5E5B33C41622956BBA5E7BA6CBCA07E"
+msgid "FloorBarriers"
+msgstr ""
+
+#. Key:	C6063420431ACEB6D66357B0D81B324F
+#. SourceLocation:	/Game/Bin/Movemode.Movemode.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Bin/Movemode.Movemode.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",C6063420431ACEB6D66357B0D81B324F"
+msgid "Tank"
+msgstr ""
+
+#. Key:	C667B75E470A59B21E5405AC1B5041D9
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_QuantityPreference.E_QuantityPreference.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_QuantityPreference.E_QuantityPreference.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",C667B75E470A59B21E5405AC1B5041D9"
+msgid "InRange"
+msgstr ""
+
+#. Key:	C79CEDF04AA8B87CD69A95BE99FC024F
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ActionTarget.E_ActionTarget.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ActionTarget.E_ActionTarget.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",C79CEDF04AA8B87CD69A95BE99FC024F"
+msgid "Self"
+msgstr ""
+
+#. Key:	C7D7C31A4B8620D990EBBCAD5BC79E89
+#. SourceLocation:	/Game/Dev/Gibran/Core/UI/BP_TypewriterTextBlock.Default__BP_TypewriterTextBlock_C.SourceText
+#: /Game/Dev/Gibran/Core/UI/BP_TypewriterTextBlock.Default__BP_TypewriterTextBlock_C.SourceText
+msgctxt ",C7D7C31A4B8620D990EBBCAD5BC79E89"
+msgid "<(Happy){0.0,0.1}>\r\nPrimeira linha </>\r\n<>\r\nSegunda linha </>\r\n<(Angry){0.1,0.2}[Flash,white]>\r\nTerceira linha </>\r\n<>\r\nQuarta linha</>"
+msgstr ""
+
+#. Key:	CCE7A8294C88A5E8C17A64BA55CB99D6
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt2/W_AnimatedChar.W_AnimatedChar_C:WidgetTree.AnimChar.Text
+#: /Game/Dev/Airon/UI/TextIt2/W_AnimatedChar.W_AnimatedChar_C:WidgetTree.AnimChar.Text
+msgctxt ",CCE7A8294C88A5E8C17A64BA55CB99D6"
+msgid "a"
+msgstr ""
+
+#. Key:	CE1CA8934E6FBF7B9B0BB6A203B9C241
+#. SourceLocation:	/Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue1.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(0).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+#: /Game/Dev/Gibran/Core/DataTables/DT_DialogueTest.DT_DialogueTest.TestDialogue1.Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077(0).Speeches_7_04161C6C445FA8E2C7170FB0BD6AE077.FormatedText_7_05F4789D48C2E40DC14818B959C5B48E
+msgctxt ",CE1CA8934E6FBF7B9B0BB6A203B9C241"
+msgid "<#0.1#>Não sei porque, </><%0.1%>mas tenho tido essa estranha sensação de </><(Highlight)%0.2% #0.1#>Déjà vu</>"
+msgstr ""
+
+#. Key:	D023A7DA4E30854A6FD76DAE9B7100B3
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ActionTarget.E_ActionTarget.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ActionTarget.E_ActionTarget.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",D023A7DA4E30854A6FD76DAE9B7100B3"
+msgid "EnemyOfClass"
+msgstr ""
+
+#. Key:	D380F64E41554048338A3086FD987468
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ActionTarget.E_ActionTarget.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ActionTarget.E_ActionTarget.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",D380F64E41554048338A3086FD987468"
+msgid "EnemyOfSameClass"
+msgstr ""
+
+#. Key:	D60F531E4EA0E6FA12B3929D89C6529B
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",D60F531E4EA0E6FA12B3929D89C6529B"
+msgid "MeleeEthan"
+msgstr ""
+
+#. Key:	D668D2784AA3DCDA83946E86048D00E6
+#. SourceLocation:	/Game/Assets/Tiles/Tilemaps/ParkTest.ParkTest:PaperTileLayer_1.LayerName
+#: /Game/Assets/Tiles/Tilemaps/ParkTest.ParkTest:PaperTileLayer_1.LayerName
+msgctxt ",D668D2784AA3DCDA83946E86048D00E6"
+msgid "FloorDeco Static"
+msgstr ""
+
+#. Key:	D72D8AA347AB05DA4BD2B1A81984C988
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt1/Enum_TextColor.Enum_TextColor.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Dev/Airon/UI/TextIt1/Enum_TextColor.Enum_TextColor.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",D72D8AA347AB05DA4BD2B1A81984C988"
+msgid "White"
+msgstr ""
+
+#. Key:	D8C7D0A540F14E32CFA93CAD35E6D2FF
+#. SourceLocation:	/Game/Assets/Tiles/Tilemaps/ParkTest.ParkTest:PaperTileLayer_4.LayerName
+#: /Game/Assets/Tiles/Tilemaps/ParkTest.ParkTest:PaperTileLayer_4.LayerName
+msgctxt ",D8C7D0A540F14E32CFA93CAD35E6D2FF"
+msgid "FloorBarrierDeco"
+msgstr ""
+
+#. Key:	D91B1B3A400ED83F82DEAEA99AA48207
+#. SourceLocation:	/Game/Dev/Gibran/Core/Blueprints/Enemies/BP_TestEnemy2.Default__BP_TestEnemy2_C.Name
+#: /Game/Dev/Gibran/Core/Blueprints/Enemies/BP_TestEnemy2.Default__BP_TestEnemy2_C.Name
+msgctxt ",D91B1B3A400ED83F82DEAEA99AA48207"
+msgid "TestEnemy2"
+msgstr ""
+
+#. Key:	DC3EA47F46499A876DF3C6A404F8E573
+#. SourceLocation:	/Game/Dev/Gibran/TestAssets/Test_TileMap.Test_TileMap:PaperTileLayer_0.LayerName
+#: /Game/Dev/Gibran/TestAssets/Test_TileMap.Test_TileMap:PaperTileLayer_0.LayerName
+msgctxt ",DC3EA47F46499A876DF3C6A404F8E573"
+msgid "Floor"
+msgstr ""
+
+#. Key:	DF0E254E4BF05CE8F4088FB3D91507B4
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt1/Enum_TextAnimation.Enum_TextAnimation.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Dev/Airon/UI/TextIt1/Enum_TextAnimation.Enum_TextAnimation.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",DF0E254E4BF05CE8F4088FB3D91507B4"
+msgid "None"
+msgstr ""
+
+#. Key:	E0C5A160448CAC9756467588378BEA4C
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_HeroSpecification.E_HeroSpecification.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_HeroSpecification.E_HeroSpecification.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",E0C5A160448CAC9756467588378BEA4C"
+msgid "Hanna"
+msgstr ""
+
+#. Key:	E3DA52344C1402E7EFF738B64DD22D57
+#. SourceLocation:	/Game/Assets/Tiles/Tilemaps/ParkTest.ParkTest:PaperTileLayer_3.LayerName
+#: /Game/Assets/Tiles/Tilemaps/ParkTest.ParkTest:PaperTileLayer_3.LayerName
+msgctxt ",E3DA52344C1402E7EFF738B64DD22D57"
+msgid "FloorBarrierTops"
+msgstr ""
+
+#. Key:	E533C92B4A2758C4C49711856BA61FA0
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt1/Enum_TextAnimation.Enum_TextAnimation.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Dev/Airon/UI/TextIt1/Enum_TextAnimation.Enum_TextAnimation.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",E533C92B4A2758C4C49711856BA61FA0"
+msgid "Bounce"
+msgstr ""
+
+#. Key:	E8B05BD24057BE7E19E0B8BC13A4C8D7
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",E8B05BD24057BE7E19E0B8BC13A4C8D7"
+msgid "RadialMagic"
+msgstr ""
+
+#. Key:	ED7D1181447CDFEB5DC06F9A5E224C7C
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt1/Enum_TextAnimation.Enum_TextAnimation.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Dev/Airon/UI/TextIt1/Enum_TextAnimation.Enum_TextAnimation.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",ED7D1181447CDFEB5DC06F9A5E224C7C"
+msgid "Orbit"
+msgstr ""
+
+#. Key:	EE0FB9D445E183A16707668CFE86CE32
+#. SourceLocation:	/Game/Dev/Gibran/Core/Blueprints/Enemies/BP_TestEnemy1.Default__BP_TestEnemy1_C.Name
+#: /Game/Dev/Gibran/Core/Blueprints/Enemies/BP_TestEnemy1.Default__BP_TestEnemy1_C.Name
+msgctxt ",EE0FB9D445E183A16707668CFE86CE32"
+msgid "TestEnemy1"
+msgstr ""
+
+#. Key:	EFE9AC8646DE44EBF7CFC896C0B0F488
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_ConditionTypes.E_ConditionTypes.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_ConditionTypes.E_ConditionTypes.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",EFE9AC8646DE44EBF7CFC896C0B0F488"
+msgid "ActorPresenceConditions"
+msgstr ""
+
+#. Key:	F5B61F2D47133A56681EF089C9B25E60
+#. SourceLocation:	/Game/Dev/Gibran/Core/Blueprints/Heroes/BP_TestHeroGroup.BP_TestHeroGroup_C:ExecuteUbergraph_BP_TestHeroGroup [Script Bytecode]
+#: /Game/Dev/Gibran/Core/Blueprints/Heroes/BP_TestHeroGroup.BP_TestHeroGroup_C:ExecuteUbergraph_BP_TestHeroGroup [Script Bytecode]
+msgctxt ",F5B61F2D47133A56681EF089C9B25E60"
+msgid "Moving Left: {ml}\r\nMoving Right: {mr}\r\nBlocked Left: {bl}\r\nBlocked Right: {br}"
+msgstr ""
+
+#. Key:	F83D1C8A45C7BA5D22343C8CC8700631
+#. SourceLocation:	/Game/Assets/Tiles/Tilemaps/ParkTest2.ParkTest2:PaperTileLayer_1.LayerName
+#: /Game/Assets/Tiles/Tilemaps/ParkTest2.ParkTest2:PaperTileLayer_1.LayerName
+msgctxt ",F83D1C8A45C7BA5D22343C8CC8700631"
+msgid "FloorDeco"
+msgstr ""
+
+#. Key:	F987882C4B3EC5F8B902E3A48961B12C
+#. SourceLocation:	/Game/Dev/Airon/UI/TextIt1/Enum_TextAnimation.Enum_TextAnimation.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/Dev/Airon/UI/TextIt1/Enum_TextAnimation.Enum_TextAnimation.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",F987882C4B3EC5F8B902E3A48961B12C"
+msgid "Wave"
+msgstr ""
+
+#. Key:	FCCD5409451A078975BFA6A539DB1C55
+#. SourceLocation:	/Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Dev/Gibran/Core/Enums/E_DamageType.E_DamageType.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",FCCD5409451A078975BFA6A539DB1C55"
+msgid "ProjectileHanna"
+msgstr ""
+
